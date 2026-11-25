@@ -1,21 +1,17 @@
-# Red River Fence & Deck - Client Project
+# Red River Fence & Deck
 
-Website, local SEO, and Google Ads for Red River Fence & Deck, a fence and deck builder in Waterloo Region, Ontario. This is my flagship client project at Sheldon Tech Solutions.
+Sheldon Tech Solutions built the WordPress website and supported local search and Google Ads for this owner-led Waterloo Region fencing and deck business. [Production website](https://redriverfencing.ca/) · [Public case study](https://sheldonmbuh.github.io/red-river-fencing/)
 
-Live site: [redriverfencing.ca](https://redriverfencing.ca)
+## Engagement scope
 
-## What I built and run for this client
+- Built service and city pages to help homeowners find a relevant service in their community.
+- Supported Google Business Profile and Search campaigns for fence and deck inquiries.
+- Worked on quote-form measurement with Google Analytics and Google Tag Manager.
 
-- Full website build on WordPress
-- Local SEO: a service hub plus individual city pages for the communities they serve
-- Google Business Profile management (rated 5.0 on Google)
-- Google Ads Search campaigns with conversion tracking (GA4 and Google Tag Manager, form leads tracked and tested)
-- Content structured so AI search tools can read, extract, and cite the business (generative engine optimization)
+The public site shows the service hub, geographic pages, and the path to the quote form. Client account settings, performance data, and WordPress source remain private. [Production quote form](https://redriverfencing.ca/contact/)
 
-## About the business
+## Landing-page demo
 
-Red River Fence & Deck is an owner-led team building custom fences and decks across Waterloo Region, working with materials including TimberTech, TruNorth, Regal Ideas, and Wolf Serenity, with a 2-year workmanship warranty.
+The [maintained HTML and CSS demo](https://sheldonmbuh.github.io/red-river-fencing/demo/) shows how a simple landing page organizes services, materials, and coverage before sending a visitor to the production quote form. Open [`demo/index.html`](demo/index.html) locally to inspect or run it without a build step.
 
-## About this repository
-
-This repository is the portfolio project page for the engagement. The production website, its code, and the client's accounts are private and are not published here. A from-scratch demo landing page for this client lives in my local-business-landing-page repository.
+The demo builds on [`local-business-landing-page` at commit `219853f`](https://github.com/sheldonmbuh/local-business-landing-page/commit/219853f8008d3a07416e1a929a43195d83b03f5b). Its original files and Git history remain in that repository.
